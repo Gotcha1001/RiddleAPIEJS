@@ -1,4 +1,5 @@
 In the TERMINAL to clone the Riddles comsuming API project type
+
 git clone https://github.com/Gotcha1001/RiddleAPIEJS.git
 
 once installed type
